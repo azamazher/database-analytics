@@ -3,6 +3,6 @@ Here, I will upload all of the information and responses that the university has
 
 [X] Section 1<br><br>
 <spam style="color: red;">I request to use VS code or any other Software which supports .ipynb files to view.</spam><br><br>
-All the questions posed in section one have been Completed.  The corresponding answers are compiled in this repositroy file named "Section1 Analyzing the Energy CSV". Feel free to explore the GitHub file "Section1 Analyzing the Energy CSV" at your convenience to review the answers in detail. 
-![Section1](https://github.com/azamazher/database-analytics/assets/95758504/5f688f56-ab11-4cb4-94c5-3d35059211cb)
+All the questions posed in section one have been Completed.  The corresponding answers are compiled in this repositroy file named "Section1 Analyzing the Energy CSV". Feel free to explore the GitHub file "Section1 Analyzing the Energy CSV" at your convenience to review the answers in detail. <br>
+
 ![1689944341410](https://github.com/azamazher/database-analytics/assets/95758504/87d17f55-9c4d-4125-910d-ff9976d919f4)
