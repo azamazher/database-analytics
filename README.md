@@ -4,4 +4,4 @@ Here, I will upload all of the information and responses that the university has
 [X] Section 1<br><br>
 <spam style="color: red;">I request to use VS code or any other Software which supports .ipynb files to view.</spam><br><br>
 All the questions posed in section one have been Completed.  The corresponding answers are compiled in this repositroy file named "Section1 Analyzing the Energy CSV". Feel free to explore the GitHub file "Section1 Analyzing the Energy CSV" at your convenience to review the answers in detail. 
-![Untitled video - Made with Clipchamp](https://github.com/azamazher/database-analytics/assets/95758504/3936a7e9-cddb-4338-a141-fcfa6ee01836)
+![Section1](https://github.com/azamazher/database-analytics/assets/95758504/5f688f56-ab11-4cb4-94c5-3d35059211cb)
