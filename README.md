@@ -1,4 +1,4 @@
-# database-analytics
+# Database-Analytics
 Here, I will upload all of the information and responses that the university has instructed me to complete throughout the assignment coursework. 
 
 [X] Section 1<br><br>
