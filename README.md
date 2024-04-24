@@ -1,5 +1,6 @@
 # Database-Analytics
 Here, I will upload all of the information and responses that the university has instructed me to complete throughout the assignment coursework. 
+![ss3](https://github.com/azamazher/database-analytics/assets/95758504/20a34e42-3773-4845-992d-084e410347d5)
 
 [X] Section 1<br><br>
 ![logo](https://github.com/azamazher/database-analytics/assets/95758504/7d340f51-9ed1-479c-b3fa-5b76209ff172)<br>
