@@ -13,5 +13,10 @@ All the questions posed in section one have been Completed.  The corresponding a
 
 [X] Section 2<br><br>
 
-<spam style="color: red;">I request to use VS code or any other Software which supports .ipynb files to view the "Section2 Telecom Case Study CSV" document.</spam><br><br>
+<spam style="color: red;">I request to use VS code or any other Software which supports .ipynb files to view the "Section2 Telecom" document.</spam><br><br>
 The appropriate answers are compiled in this repository file called "telecom.ipynb". Please feel free to browse the GitHub file. Also, to test if the query runs properly without errors, click the run all button on the Visual Studio code ribbon to view the answers and all plot charts in the file. <br><br>
+
+[X] Section 3<br><br>
+
+<spam style="color: red;">I request to use VS code or any other Software which supports .ipynb files to view the "Section 3 Analyze operational data on MongoDB" document.</spam><br><br>
+The appropriate answers are compiled in this repository file called "MongoDB_Spark.ipynb". Please feel free to browse the GitHub file. Also, to test if the query runs properly without errors, click the run all button on the Visual Studio code ribbon to view the answers and all plot charts in the file. <br><br>
