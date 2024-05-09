@@ -1,6 +1,6 @@
 # Database-Analytics
 Here, I will upload all of the information and responses that the university has instructed me to complete throughout the assignment coursework. <br><br>
-this is how to clone my repository files into your local machine. Create a new folder > open command prmpet inside the folder by typing cmd in search bar > paste this code "git clone "<br><br>
+This is how to clone my repository files into your local machine. Create a new folder > open CMD inside the folder > paste this code "git clone https://github.com/azamazher/database-analytics.git"<br><br>
 The assignment is structured into three sections, each focusing on a specific technology:
 
 ![logoo](https://github.com/azamazher/database-analytics/assets/95758504/2904bb91-979f-4be3-924b-62a41b3c92d4)
